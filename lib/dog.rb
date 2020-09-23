@@ -6,7 +6,7 @@ class Dog
   end 
   
   def name 
-    puts @this_name
+    @this_name
   end
   
   def bark
